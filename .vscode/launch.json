@@ -1,0 +1,25 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - descc",
+            "request": "launch",
+            "mainClass": "com.kgisl.qs1.descc",
+            "projectName": "qs1"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - duplicatearr",
+            "request": "launch",
+            "mainClass": "com.kgisl.qs1.duplicatearr",
+            "projectName": "qs1"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - App",
+            "request": "launch",
+            "mainClass": "com.kgisl.qs1.App",
+            "projectName": "qs1"
+        }
+    ]
+}
